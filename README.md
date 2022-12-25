@@ -62,7 +62,7 @@ Professors:
 - [Go Ethereum](https://geth.ethereum.org/docs)
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
-- [](https://github.com/scaffold-eth/scaffold-eth-challenges)
+- [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
 **9. Wallets, ENS, Stablecoins, DeFi**
 - [Metamask and other wallets]()
