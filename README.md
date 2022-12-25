@@ -28,6 +28,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 
 # 3. Asymmetric encryption
 - Diffie-Hellman Key Exchange
+- ECDH
 - ElGamal
 - RSA
 
@@ -38,8 +39,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - MD5
 - SHA1
 - Keccak - SHA3
+- ECDSA signature
 - Schnor signature
-- EdDSA
+- BLS signature
 
 # 5. What is Money?
 - [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
