@@ -5,9 +5,7 @@ Professors: Pablo Deymonnaz, Diego Kingston and Federico Carrone
 
 
 **1. Cryptography**
-- [](https://crypto.stanford.edu/pbc/notes/numbertheory/)
-- [](https://crypto.stanford.edu/pbc/notes/commalg/)
-- [](https://crypto.stanford.edu/pbc/notes/group/)
+- [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Modular Arithmetic]()
 - [Groups, Rings and Fields]()
 - [RSA]()
@@ -15,7 +13,6 @@ Professors: Pablo Deymonnaz, Diego Kingston and Federico Carrone
 - [ElGamal]()
 - [AES]()
 - [Schnor]()
-- []()
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
 
 **2 Symmetric encryption**
@@ -92,6 +89,9 @@ Professors: Pablo Deymonnaz, Diego Kingston and Federico Carrone
 **11. Security**
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
+- https://github.com/crytic/echidna
+- https://github.com/trailofbits/manticore
+- https://github.com/ConsenSys/mythril
 
 **12. MEV**
 - [MEV](https://research.paradigm.xyz/MEV)
@@ -185,43 +185,32 @@ https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing
 
 https://youtu.be/mDyBbGCiBUU
 
-https://github.com/crytic/echidna
 
-https://github.com/trailofbits/manticore
-https://github.com/ConsenSys/mythril
-
-
-
-https://medium.com/@alxlpsc/critical-privacy-vulnerability-getting-exposed-by-metamask-693c63c2ce94
-https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html
-https://mudit.blog/miso-war-room/
-https://github.com/ConsenSys/surya
-https://youtu.be/DlNDYMNJ5zQ
-[Hayden Adams Explains Uniswap and the Rise of DeFi](https://open.spotify.com/episode/3TT6aFeMWnFPZTlfy5fxvv?si=KCw3uWvJQAaeBCZoH1RwNw&dl_branch=1)
-https://cryptomarketpool.com/getting-started-with-solidity/
-https://www.youtube.com/watch?v=U6q5gBnxgS0&list=PL9lJNCwSDOhVEf0ajBHkNNICFqNnoGx7r&index=4
-https://twitter.com/guiltygyoza/status/1447641997012082693?s=12
-https://blog.zkga.me/announcing-darkforest
-https://github.com/Rari-Capital/solmate
-https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48
-https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8
-https://youtu.be/7Kq3YWsysc0
-https://youtu.be/RxL_1AfV7N4
-https://dune.xyz/queries/1161
-
-https://www.youtube.com/watch?v=B2iNXMiGEms
-https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
-https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8
-https://github.com/usmfum/USM
-https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/
-https://twitter.com/siegerhino2/status/1445024119112835073?s=21
-
-https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec
-
-https://www.vice.com/en/article/dyp7vw/the-cia-is-deep-into-cryptocurrency-director-reveals?utm_source=motherboardtv_facebook&utm_medium=social&fbclid=IwAR2Gxe3I1frUiU344r6bjBImXZz0uRUPvt4I5dBWI1BGZTG2fUV5O6_Q6KE
-
-https://www.samchepal.com/the-hidden-world-of/
-
-https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
-https://www.youtube.com/watch?v=Ehm-OYBmlPM
-https://github.com/Mikerah/awesome-foundations-of-DeFi
+- https://medium.com/@alxlpsc/critical-privacy-vulnerability-getting-exposed-by-metamask-693c63c2ce94
+- https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html
+- https://mudit.blog/miso-war-room/
+- https://github.com/ConsenSys/surya
+- https://youtu.be/DlNDYMNJ5zQ
+- [Hayden Adams Explains Uniswap and the Rise of DeFi](https://open.spotify.com/episode/3TT6aFeMWnFPZTlfy5fxvv?si=KCw3uWvJQAaeBCZoH1RwNw&dl_branch=1)
+- https://cryptomarketpool.com/getting-started-with-solidity/
+- https://www.youtube.com/watch?v=U6q5gBnxgS0&list=PL9lJNCwSDOhVEf0ajBHkNNICFqNnoGx7r&index=4
+- https://twitter.com/guiltygyoza/status/1447641997012082693?s=12
+- https://blog.zkga.me/announcing-darkforest
+- https://github.com/Rari-Capital/solmate
+- https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48
+- https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8
+- https://youtu.be/7Kq3YWsysc0
+- https://youtu.be/RxL_1AfV7N4
+- https://dune.xyz/queries/1161
+- https://www.youtube.com/watch?v=B2iNXMiGEms
+- https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
+- https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8
+- https://github.com/usmfum/USM
+- https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/
+- https://twitter.com/siegerhino2/status/1445024119112835073?s=21
+- https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec
+- https://www.vice.com/en/article/dyp7vw/the-cia-is-deep-into-cryptocurrency-director-reveals?utm_source=motherboardtv_facebook&utm_medium=social&fbclid=IwAR2Gxe3I1frUiU344r6bjBImXZz0uRUPvt4I5dBWI1BGZTG2fUV5O6_Q6KE
+- https://www.samchepal.com/the-hidden-world-of/
+- https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
+- https://www.youtube.com/watch?v=Ehm-OYBmlPM
+- https://github.com/Mikerah/awesome-foundations-of-DeFi
