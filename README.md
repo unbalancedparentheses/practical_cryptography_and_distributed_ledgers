@@ -1,7 +1,9 @@
 # Practical Cryptography and Distributed Ledgers
 
-University: UBA
-Professors: Pablo Deymonnaz, Diego Kingston and Federico Carrone
+Professors:
+- Pablo Deymonnaz
+- Diego Kingston
+- Federico Carrone
 
 
 **1. Cryptography**
@@ -41,7 +43,6 @@ Professors: Pablo Deymonnaz, Diego Kingston and Federico Carrone
 **7. Bitcoin**
 - [MIT 15.S12 Blockchain and Money: Blockchain Basics & Consensus - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [Paxos(etcd) vs. Nakamoto(Bitcoin): consensus](https://gyuho.dev/paxos-etcd-vs-nakamoto-bitcoin-consensus.html)
-
 - [Nakamoto's Longest-Chain Wins Protocol](https://decentralizedthoughts.github.io/2021-10-15-Nakamoto-Consensus/)
 - [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
