@@ -6,12 +6,15 @@ Professors:
 - Federico Carrone
 
 # 1. Cryptography
-- [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Groups, Rings and Fields]()
 - [Finite Fields]()
 - [Modular Arithmetic]()
 - [P versus NP problem]()
 - [Computationally Hard Problems: Factorization and the Discrete Logarithm ]()
+
+## Readings
+- [Chapter entitled Cryptography: Sections on Symmetric Crypto Primitives - Anderson Security Engineering](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c05.pdf)
+- [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 
 ## Exercises
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
@@ -128,6 +131,7 @@ Professors:
 
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
+- [Security Engineering — Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 ## Mathematics
 - [Crypto 101 - lvh]()
