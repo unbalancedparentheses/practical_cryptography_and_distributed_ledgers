@@ -43,6 +43,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Schnor signature
 - BLS signature
 
+## Readings
+- [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
+
 # 5. What is Money?
 - [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
 - [Shelling Out: The Origins of Money - Nick Szabo](https://nakamotoinstitute.org/shelling-out/)
@@ -58,26 +61,31 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Merkle Trees
 
 ## Readings
-- [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
-- [What is a Blockchain - Ittai Abraham](https://decentralizedthoughts.github.io/2022-09-05-what-is-a-blockchain/)
 - [Why cryptocurrencies are interesting?](https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/us0MyyUNYwSXazM0YCrGscbRWr18s0aIIZqyHBbTWfM)
-- [How does everything tie together?](https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/nsEwS5WZjLeydpX2x9XybTpu7dA5LpLNyayj93HnovA)
 - [Cancelled Nickel Trades on the LME](https://youtu.be/tHXF5LyLI4M)
+- [What is a Blockchain - Ittai Abraham](https://decentralizedthoughts.github.io/2022-09-05-what-is-a-blockchain/)
+- [How does everything tie together?](https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/nsEwS5WZjLeydpX2x9XybTpu7dA5LpLNyayj93HnovA)
+- [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
 - [Hash functions](https://nakamoto.com/hash-functions/)
 - [Merkle Tree](https://nakamoto.com/merkle-trees/)
 - [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
+
+- [What is Consensus? - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-27-defining-consensus/)
+- [Flavours of State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-25-flavours-of-state-machine-replication/)
+- [Consensus for State Machine Replication - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
+- [From Single-Shot Agreement to State Machine Replication](https://decentralizedthoughts.github.io/2022-11-19-from-single-shot-to-smr/)
 
 # 7. Bitcoin
 - Two general's Problem
 - What Is the Byzantine Generals Problem?
 
 ## Readings
+- [The Byzantine Generals Problem](https://dl.acm.org/doi/10.1145/357172.357176)
 - [Blockchain Basics & Consensus - MIT 15.S12 Blockchain and Money - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [Paxos(etcd) vs. Nakamoto(Bitcoin): consensus](https://gyuho.dev/paxos-etcd-vs-nakamoto-bitcoin-consensus.html)
 - [Nakamoto's Longest-Chain Wins Protocol](https://decentralizedthoughts.github.io/2021-10-15-Nakamoto-Consensus/)
 - [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-- [What is Consensus? - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-27-defining-consensus/)
 - [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4) 
 - [Cryptoeconomics In 30 Minutes by Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
 
@@ -145,7 +153,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
 - [(Almost) Everything you need to know about Optimistic Rollup - Georgios Konstantopoulos](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup)
 
-# 15. Tendermint
+# 15. Tendermint, HotStuff and Narwhal
+- [What is the difference between PBFT, Tendermint, SBFT and HotStuff? - Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-23-what-is-the-difference-between/)
+- [DAG Meets BFT - The Next Generation of BFT Consensus - Ittai Abraham](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
 
 # 16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
@@ -158,7 +168,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Security Engineering — Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 ## Blockchain
-- [Foundations of Distributed: Consensus and Blockchains - Elaine Shi]()
+- [Foundations of Distributed: Consensus and Blockchains - Elaine Shi](http://elaineshi.com/docs/blockchain-book.pdf)
 
 ## Cryptography
 - [Handbook of Applied Cryptography -  Menezes, van Oorschot and Vanstone]()
@@ -181,6 +191,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Stanford CS 251 Blockchain Technologies - Dan Boneh](https://cs251.stanford.edu/syllabus.html)
 - [Stanford EE374 Blockchain Foundations - David Tse, Dionysis Zindros](https://web.stanford.edu/class/ee374/)
 - [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
+- [CS598CAL Consensus Algorithms - Ling Ren](https://sites.google.com/view/cs598cal?pli=1)
 
 # Missing topics
 - Light Clients
