@@ -43,7 +43,8 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 
 # 5. What is Money?
 - [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
-- [What is Money anyway](https://www.lynalden.com/what-is-money/)
+- [Shelling Out: The Origins of Money - Nick Szabo](https://nakamotoinstitute.org/shelling-out/)
+- [What is Money anyway - Lyn Alden](https://www.lynalden.com/what-is-money/)
 - [Money in the modern economy: an introduction](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)
 - [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
 - [The Cypherpunks](https://nakamoto.com/the-cypherpunks)
@@ -88,6 +89,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)
+- [Getting Started with Solidity](https://cryptomarketpool.com/getting-started-with-solidity/)
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
 - [Go Ethereum](https://geth.ethereum.org/docs)
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
@@ -152,6 +154,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
 - [Security Engineering — Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
+
+## Blockchain
+- [Foundations of Distributed: Consensus and Blockchains - Elaine Shi]()
 
 ## Cryptography
 - [Handbook of Applied Cryptography -  Menezes, van Oorschot and Vanstone]()
