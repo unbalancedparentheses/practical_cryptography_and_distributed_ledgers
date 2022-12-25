@@ -45,6 +45,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 
 ## Readings
 - [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
+- [What is the BLS signature scheme? - David Wong](https://www.cryptologie.net/article/472/what-is-the-bls-signature-scheme/)
 
 # 5. What is Money?
 - [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
@@ -94,6 +95,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - ERC20
 - ERC721
 - ERC-1155
+- Merkle Patricia Trie Tree
 
 ## Readings
 - [DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
@@ -102,6 +104,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Getting Started with Solidity](https://cryptomarketpool.com/getting-started-with-solidity/)
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
 - [Go Ethereum](https://geth.ethereum.org/docs)
+- [Trie, Merkle, Patricia: A Blockchain Story](https://kronosapiens.github.io/blog/2018/07/04/patricia-trees.html)
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
@@ -131,13 +134,18 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+- [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+
+## Tools
 - [echidna - Ethereum smart contract fuzzer](https://github.com/crytic/echidna)
 - [manticore - Symbolic execution tool](https://github.com/trailofbits/manticore)
 - [mythril - Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 
 # 12. MEV
 - [MEV](https://research.paradigm.xyz/MEV)
-- https://www.youtube.com/watch?v=UZ-NNd6yjFM
+- [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
+- [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
+
 
 # 13. Zcash, SNARKs and Privacy in blockchains**
 - [Zcash]()
