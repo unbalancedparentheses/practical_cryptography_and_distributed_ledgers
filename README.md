@@ -142,10 +142,11 @@ Professors:
 
 # 15. Tendermint
 
-# 16. Back to Bitcoin
+# 16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
+- [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
 
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
@@ -196,7 +197,9 @@ Professors:
 - nuestra vida depende de un par de bases de datos https://twitter.com/argentHQ/status/1513488734498525184
 
 **Links to add**
-- A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
+
+650.445:
+
 - [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
 - https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus
 - https://www.cl.cam.ac.uk/~rja14/book.html
