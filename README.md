@@ -100,9 +100,10 @@ Professors:
 # 11. Security
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
-- https://github.com/crytic/echidna
-- https://github.com/trailofbits/manticore
-- https://github.com/ConsenSys/mythril
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+- [echidna - Ethereum smart contract fuzzer](https://github.com/crytic/echidna)
+- [manticore - Symbolic execution tool](https://github.com/trailofbits/manticore)
+- [mythril - Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 
 # 12. MEV
 - [MEV](https://research.paradigm.xyz/MEV)
@@ -138,11 +139,13 @@ Professors:
 - [The prime number conspiracy - Thomas Lin]()
 
 **Other courses**
+- [Practical Crypto - Matthew Green](https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus)
 - [Cryptocurrency Class 2022 - Patrick McCorry](https://cryptocurrencyclass.github.io/)
 - [Principles of Blockchains - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/)
 - [Blockchain And Money - Gary Gensler](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
 - [Decentralized Finance MOOC - Dan Boneh, Arthur Gervais, Andrew Miller, Christine Parlour and	Dawn Song](https://defi-learning.org/f22)
 - [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
+
 
 # Missing topics
 - The Blockchain Trilemma
