@@ -98,7 +98,7 @@ Professors:
 - [MEV](https://research.paradigm.xyz/MEV)
 - https://www.youtube.com/watch?v=UZ-NNd6yjFM
 
-**13. Zcash, SNARKs and Privacy in Ethereum**
+**13. Zcash, SNARKs and Privacy in blockchains**
 - [Zcash]()
 - [Aztec]()
 
