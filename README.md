@@ -10,6 +10,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Groups, Rings and Fields
 - Finite Fields
 - Modular Arithmetic
+- Polynomials over a Field
 - P versus NP problem
 - Computationally Hard Problems: Factorization and the Discrete Logarithm 
 
@@ -42,6 +43,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - ECDSA signature
 - Schnor signature
 - BLS signature
+- 
 
 ## Readings
 - [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
@@ -154,6 +156,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Data Availability
 - Optimistic versus Zero Knoweledge Rollups
 - Circom, Cairo, Noir
+
+# 15. Bitcoin SegWit, Taproot, Lightning Network and Covenants
+- [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
 
 ---
 
