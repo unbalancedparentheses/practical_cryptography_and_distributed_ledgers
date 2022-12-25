@@ -70,7 +70,6 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Hash functions](https://nakamoto.com/hash-functions/)
 - [Merkle Tree](https://nakamoto.com/merkle-trees/)
 - [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
-
 - [What is Consensus? - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-27-defining-consensus/)
 - [Flavours of State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-25-flavours-of-state-machine-replication/)
 - [Consensus for State Machine Replication - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
