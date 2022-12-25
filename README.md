@@ -18,10 +18,10 @@ Professors:
 
 # 2 Symmetric encryption
 - [AES]()
-
+- [ChaCha20]()
 
 # 3. Asymmetric encryption
-- [Diffie Helman]()
+- [diffie-hellman key exchange]()
 - [ElGamal]()
 - [RSA]()
 - [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
@@ -33,6 +33,7 @@ Professors:
 - [SHA1]()
 - [Keccak - SHA3]()
 - [Schnor signature]()
+- [EdDSA]()
 
 # 5. Introduction to blockchains and cryptocurrencies
 - [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
