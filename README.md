@@ -1,4 +1,4 @@
-# Applied Cryptography and Principles of Blockchains
+# Practical Cryptography and Distributed Ledgers
 
 Professors:
 - Pablo Deymonnaz
