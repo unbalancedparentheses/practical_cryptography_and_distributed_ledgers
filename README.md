@@ -5,6 +5,8 @@ Professors:
 - Diego Kingston
 - Federico Carrone
 
+Disclaimer: We're still organizing everything. Some links might be in an incorrect section.
+
 # 1. Foundations of Cryptography
 - Groups, Rings and Fields
 - Finite Fields
@@ -15,6 +17,8 @@ Professors:
 ## Readings
 - [Chapter entitled Cryptography: Sections on Symmetric Crypto Primitives - Anderson Security Engineering](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c05.pdf)
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
+- [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
+- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 
 ## Exercises
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
@@ -30,8 +34,6 @@ Professors:
 
 ## Readings
 - [Twenty Years of Attacks on the RSA Cryptosystem - Dan Boneh](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
-- [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
-- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 
 # 4. Signatures, Hash Functions
 - MD5
