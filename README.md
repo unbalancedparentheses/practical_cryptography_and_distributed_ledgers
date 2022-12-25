@@ -1,6 +1,5 @@
 # Practical Cryptography and Distributed Ledgers
 
-Professors:
 - Pablo Deymonnaz
 - Diego Kingston
 - Federico Carrone
