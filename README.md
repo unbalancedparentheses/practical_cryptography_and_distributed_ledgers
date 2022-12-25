@@ -6,11 +6,11 @@ Professors:
 - Federico Carrone
 
 # 1. Cryptography
-- [Groups, Rings and Fields]()
-- [Finite Fields]()
-- [Modular Arithmetic]()
-- [P versus NP problem]()
-- [Computationally Hard Problems: Factorization and the Discrete Logarithm ]()
+- Groups, Rings and Fields
+- Finite Fields
+- Modular Arithmetic
+- P versus NP problem
+- Computationally Hard Problems: Factorization and the Discrete Logarithm 
 
 ## Readings
 - [Chapter entitled Cryptography: Sections on Symmetric Crypto Primitives - Anderson Security Engineering](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c05.pdf)
@@ -20,25 +20,40 @@ Professors:
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
 
 # 2 Symmetric encryption
-- [AES]()
-- [ChaCha20]()
+- AES
+- ChaCha20
 
 # 3. Asymmetric encryption
-- [diffie-hellman key exchange]()
-- [ElGamal]()
-- [RSA]()
+- Diffie-Hellman Key Exchange
+- ElGamal
+- RSA
+
+## Readings
+- [Twenty Years of Attacks on the RSA Cryptosystem - Dan Boneh](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
 - [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
 - [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 
-
 # 4. Signatures, Hash Functions
-- [MD5]()
-- [SHA1]()
-- [Keccak - SHA3]()
-- [Schnor signature]()
-- [EdDSA]()
+- MD5
+- SHA1
+- Keccak - SHA3]
+- Schnor signature
+- EdDSA
 
-# 5. Introduction to blockchains and cryptocurrencies
+# 5. What is Money?
+- [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
+- [What is Money anyway](https://www.lynalden.com/what-is-money/)
+- [Money in the modern economy: an introduction](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)
+- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
+- [The Cypherpunks](https://nakamoto.com/the-cypherpunks)
+
+# 6. Introduction to blockchains and cryptocurrencies
+- What is a blockchain?
+- State Machines
+- Consensus
+- Merkle Trees
+
+## Readings
 - [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
 - [What is a Blockchain - Ittai Abraham](https://decentralizedthoughts.github.io/2022-09-05-what-is-a-blockchain/)
 - [Why cryptocurrencies are interesting?](https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/us0MyyUNYwSXazM0YCrGscbRWr18s0aIIZqyHBbTWfM)
@@ -47,12 +62,6 @@ Professors:
 - [Hash functions](https://nakamoto.com/hash-functions/)
 - [Merkle Tree](https://nakamoto.com/merkle-trees/)
 - [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
-
-# 6. What is Money?
-- [What is Money anyway](https://www.lynalden.com/what-is-money/)
-- [Money in the modern economy: an introduction](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)
-- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
-- [The Cypherpunks](https://nakamoto.com/the-cypherpunks)
 
 # 7. Bitcoin
 - [MIT 15.S12 Blockchain and Money: Blockchain Basics & Consensus - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
@@ -152,7 +161,7 @@ Professors:
 - [Blockchain And Money - Gary Gensler](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
 - [Decentralized Finance MOOC - Dan Boneh, Arthur Gervais, Andrew Miller, Christine Parlour and	Dawn Song](https://defi-learning.org/f22)
 - [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
-
+- [](https://web.stanford.edu/class/ee374/)
 
 # Missing topics
 - The Blockchain Trilemma
