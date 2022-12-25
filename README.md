@@ -124,9 +124,16 @@ Professors:
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
 
-**Books**
+# Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
+
+## Mathematics
+- [Crypto 101 - lvh]()
+- [An Introduction to Mathematical Cryptography - Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman]()
+- [A Course in Number Theory and Cryptography - Neal Koblitz]()
 - [Algebra for Applications - Arkadii Slinko]()
+- [A Computational Introduction to Number Theory and Algebra - Victor Shoup]()
+- [Elliptic Curves Number Theory and Cryptography - Lawrence C. Washington]()
 - [The prime number conspiracy - Thomas Lin]()
 
 **Other courses**
@@ -136,7 +143,7 @@ Professors:
 - [Decentralized Finance MOOC - Dan Boneh, Arthur Gervais, Andrew Miller, Christine Parlour and	Dawn Song](https://defi-learning.org/f22)
 - [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
 
-**Missing topics*
+# Missing topics
 - The Blockchain Trilemma
 - PoS vs PoW
 - Tendemint
