@@ -5,7 +5,7 @@ Professors:
 - Diego Kingston
 - Federico Carrone
 
-# 1. Cryptography
+# 1. Foundations of Cryptography
 - Groups, Rings and Fields
 - Finite Fields
 - Modular Arithmetic
