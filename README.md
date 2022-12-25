@@ -21,7 +21,7 @@ Professors:
 
 **3. Asymmetric encryption**
 
-**4. Signatures, MAC**
+**4. Signatures, Hash Functions**
 
 **5. Introduction to blockchains and cryptocurrencies**
 - [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
@@ -38,7 +38,6 @@ Professors:
 - [Money in the modern economy: an introduction](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)
 - [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
 - [The Cypherpunks](https://nakamoto.com/the-cypherpunks
-
 
 **7. Bitcoin**
 - [MIT 15.S12 Blockchain and Money: Blockchain Basics & Consensus - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
@@ -64,7 +63,6 @@ Professors:
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [](https://github.com/scaffold-eth/scaffold-eth-challenges)
-
 
 **9. Wallets, ENS, Stablecoins, DeFi**
 - [Metamask and other wallets]()
@@ -103,12 +101,12 @@ Professors:
 - [Aztec]()
 
 **14. Scaling blockchains, ZK Rollups and L3s**
+- [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
 - [Cairo]() 
 - [Noir]()
 
 **15. The future of Bitcoin**
-
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
