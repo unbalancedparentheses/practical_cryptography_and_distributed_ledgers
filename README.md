@@ -155,6 +155,8 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Optimistic versus Zero Knoweledge Rollups
 - Circom, Cairo, Noir
 
+---
+
 ## Readings
 - [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
@@ -189,7 +191,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Elliptic Curves Number Theory and Cryptography - Lawrence C. Washington]()
 - [The prime number conspiracy - Thomas Lin]()
 
-**Other courses**
+# Courses
 - [Practical Cryptographic Systems - Matthew Green](https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus)
 - [Cryptocurrency Class 2022 - Patrick McCorry](https://cryptocurrencyclass.github.io/)
 - [Principles of Blockchains - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/)
@@ -200,6 +202,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
 - [CS598CAL Consensus Algorithms - Ling Ren](https://sites.google.com/view/cs598cal?pli=1)
 
+---
 # Missing topics
 - Light Clients
 - UTXO vs Account model
@@ -223,9 +226,6 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - nuestra vida depende de un par de bases de datos https://twitter.com/argentHQ/status/1513488734498525184
 
 **Links to add**
-
-650.445:
-
 - [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
 - https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus
 - https://www.cl.cam.ac.uk/~rja14/book.html
