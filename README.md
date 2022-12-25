@@ -36,7 +36,7 @@ Professors:
 # 4. Signatures, Hash Functions
 - MD5
 - SHA1
-- Keccak - SHA3]
+- Keccak - SHA3
 - Schnor signature
 - EdDSA
 
@@ -64,6 +64,10 @@ Professors:
 - [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 
 # 7. Bitcoin
+- Two general's Problem
+- What Is the Byzantine Generals Problem?
+
+## Readings
 - [MIT 15.S12 Blockchain and Money: Blockchain Basics & Consensus - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [Paxos(etcd) vs. Nakamoto(Bitcoin): consensus](https://gyuho.dev/paxos-etcd-vs-nakamoto-bitcoin-consensus.html)
 - [Nakamoto's Longest-Chain Wins Protocol](https://decentralizedthoughts.github.io/2021-10-15-Nakamoto-Consensus/)
@@ -72,16 +76,17 @@ Professors:
 - [What is Consensus? - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-27-defining-consensus/)
 - [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4) 
 - [Cryptoeconomics In 30 Minutes by Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
-- Two general's Problem
-- What Is the Byzantine Generals Problem?
 
 # 8. Ethereum
+- Solidity
+- ERC20
+- ERC721
+- ERC-1155
+
+## Readings
 - [DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)
-- [ERC20]()
-- [ERC721]
-- [ERC-1155]()
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
 - [Go Ethereum](https://geth.ethereum.org/docs)
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
@@ -125,11 +130,15 @@ Professors:
 - [Zcash]()
 - [Aztec]()
 
-# 14. Scaling blockchains, ZK Rollups and L3s
+# 14. Scaling blockchains
+- Data Availability
+- Optimistic versus Zero Knoweledge Rollups
+- Circom, Cairo, Noir
+
+## Readings
 - [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
-- [Cairo]() 
-- [Noir]()
+- [(Almost) Everything you need to know about Optimistic Rollup - Georgios Konstantopoulos](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup)
 
 # 15. Tendermint
 
@@ -155,15 +164,18 @@ Professors:
 - [The prime number conspiracy - Thomas Lin]()
 
 **Other courses**
-- [Practical Crypto - Matthew Green](https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus)
+- [Practical Cryptographic Systems - Matthew Green](https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus)
 - [Cryptocurrency Class 2022 - Patrick McCorry](https://cryptocurrencyclass.github.io/)
 - [Principles of Blockchains - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/)
 - [Blockchain And Money - Gary Gensler](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
 - [Decentralized Finance MOOC - Dan Boneh, Arthur Gervais, Andrew Miller, Christine Parlour and	Dawn Song](https://defi-learning.org/f22)
-- [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
-- [](https://web.stanford.edu/class/ee374/)
+- [Stanford CS 251 Blockchain Technologies - Dan Boneh](https://cs251.stanford.edu/syllabus.html)
+- [Stanford EE374 Blockchain Foundations - David Tse, Dionysis Zindros](https://web.stanford.edu/class/ee374/)
+- [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
 
 # Missing topics
+- Light Clients
+- UTXO vs Account model
 - The Blockchain Trilemma
 - PoS vs PoW
 - Tendemint
@@ -178,7 +190,6 @@ Professors:
 - MAC
 - Stream ciphers and block ciphers
 - Signatures
-- UTXO vs Account model
 - DeFi Lending (aave vs)
 - Account Abstraction (argent x)
 - muun, non custodial wallets
