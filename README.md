@@ -12,25 +12,27 @@ Professors:
 - [Modular Arithmetic]()
 - [P versus NP problem]()
 - [Computationally Hard Problems: Factorization and the Discrete Logarithm ]()
+
+## Exercises
+- [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
+
+# 2 Symmetric encryption
 - [AES]()
+
+
+# 3. Asymmetric encryption
 - [Diffie Helman]()
 - [ElGamal]()
 - [RSA]()
+- [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
+- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
+
+
+# 4. Signatures, Hash Functions
 - [MD5]()
 - [SHA1]()
 - [Keccak - SHA3]()
 - [Schnor signature]()
-- [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
-
-## Exercises
-- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
-- [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
-
-# 2 Symmetric encryption
-
-# 3. Asymmetric encryption
-
-# 4. Signatures, Hash Functions
 
 # 5. Introduction to blockchains and cryptocurrencies
 - [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
@@ -124,6 +126,8 @@ Professors:
 
 **Books**
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
+- [Algebra for Applications - Arkadii Slinko]()
+- [The prime number conspiracy - Thomas Lin]()
 
 **Other courses**
 - [Cryptocurrency Class 2022 - Patrick McCorry](https://cryptocurrencyclass.github.io/)
