@@ -158,8 +158,11 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Circom, Cairo, Noir
 
 # 15. Bitcoin SegWit, Taproot, Lightning Network and Covenants
+- [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
+- [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
-
+- [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
+- [Covenants: CHECKTEMPLATEVERIFY]()
 ---
 
 ## Readings
