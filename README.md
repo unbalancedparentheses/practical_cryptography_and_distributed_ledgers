@@ -5,7 +5,6 @@ Professors:
 - Diego Kingston
 - Federico Carrone
 
-
 **1. Cryptography**
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Modular Arithmetic]()
@@ -16,6 +15,7 @@ Professors:
 - [AES]()
 - [Schnor]()
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
+- Reed Solomon
 
 **2 Symmetric encryption**
 
@@ -113,34 +113,22 @@ Professors:
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
 
-
-**Libros**
+**Books**
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
 
+**Other courses**
+- [Cryptocurrency Class 2022 - Patrick McCorry](https://cryptocurrencyclass.github.io/)
+- [Principles of Blockchains - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/)
+- [Blockchain And Money - Gary Gensler](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
+- [Decentralized Finance MOOC - Dan Boneh, Arthur Gervais, Andrew Miller, Christine Parlour and	Dawn Song](https://defi-learning.org/f22)
+- [CS 251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
 
-
-Hash Functions
-Digital Signatures
-
-
-- [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
-- [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
-
-
-Cursos:
-- [](https://cryptocurrencyclass.github.io/)
-- [](https://courses.grainger.illinois.edu/ece598pv/sp2021/)
-- [](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
-- [Decentralized Finance MOOC](https://defi-learning.org/f22)
-- [](https://cs251.stanford.edu/syllabus.html)
-
-
----
-**Temas que faltan**
+**Missing topics*
+- The Blockchain Trilemma
 - PoS vs PoW
 - Tendemint
-- Reed Solomon
-- Schnoor
+- Hash Functions
+- Digital Signatures
 - Soft Forks vs Hard Forks
 - Onchain vs offchain computation
 - Taproot, Segwit, Covenants
@@ -156,37 +144,27 @@ Cursos:
 - muun, non custodial wallets
 - nuestra vida depende de un par de bases de datos https://twitter.com/argentHQ/status/1513488734498525184
 
-**Libros, papers cursos a revisar**
-https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus
-https://www.cl.cam.ac.uk/~rja14/book.html
-https://web.stanford.edu/class/ee374/
-https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
-https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ
-https://youtu.be/-6BtBUbiUIU
-https://github.com/decrypto-org/blockchain-papers
-
-
-**Ordenar**
-https://blog.ethereum.org/2016/05/09/on-settlement-finality/
-https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a#:~:text=In%20the%20blockchain%20setting%2C%20finality,be%20arbitrarily%20changed%20or%20reversed
-https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols
-https://www.youtube.com/watch?v=O1Iq27ItGGg
-
-https://medium.com/@lightcoin/the-differences-between-a-hard-fork-a-soft-fork-and-a-chain-split-and-what-they-mean-for-the-769273f358c9
-
-https://dspace.mit.edu/handle/1721.1/127476
-
-https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
-
-https://dankradfeist.de/ethereum/2021/05/20/what-everyone-gets-wrong-about-51percent-attacks.html
-
-
-https://dinhtta.github.io/flpcap/
-https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/
-
-https://youtu.be/mDyBbGCiBUU
-
-
+**Links to add**
+- A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
+- [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
+- https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus
+- https://www.cl.cam.ac.uk/~rja14/book.html
+- https://web.stanford.edu/class/ee374/
+- https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
+- https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ
+- https://youtu.be/-6BtBUbiUIU
+- https://github.com/decrypto-org/blockchain-papers
+- https://blog.ethereum.org/2016/05/09/on-settlement-finality/
+- https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a#:~:text=In%20the%20blockchain%20setting%2C%20finality,be%20arbitrarily%20changed%20or%20reversed
+- https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols
+- https://www.youtube.com/watch?v=O1Iq27ItGGg
+- https://medium.com/@lightcoin/the-differences-between-a-hard-fork-a-soft-fork-and-a-chain-split-and-what-they-mean-for-the-769273f358c9
+- https://dspace.mit.edu/handle/1721.1/127476
+- https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
+- https://dankradfeist.de/ethereum/2021/05/20/what-everyone-gets-wrong-about-51percent-attacks.html
+- https://dinhtta.github.io/flpcap/
+- https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/
+- https://youtu.be/mDyBbGCiBUU
 - https://medium.com/@alxlpsc/critical-privacy-vulnerability-getting-exposed-by-metamask-693c63c2ce94
 - https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html
 - https://mudit.blog/miso-war-room/
