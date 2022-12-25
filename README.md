@@ -5,25 +5,34 @@ Professors:
 - Diego Kingston
 - Federico Carrone
 
-**1. Cryptography**
+# 1. Cryptography
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
-- [Modular Arithmetic]()
 - [Groups, Rings and Fields]()
-- [RSA]()
+- [Finite Fields]
+- [Modular Arithmetic]()
+- [P versus NP problem]()
+- [Computationally Hard Problems: Factorization and the Discrete Logarithm ]()
+- [AES]()
 - [Diffie Helman]()
 - [ElGamal]()
-- [AES]()
-- [Schnor]()
+- [RSA]()
+- [MD5]()
+- [SHA1]()
+- [Keccak - SHA3]()
+- [Schnor signature]()
+- [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
+
+## Exercises
+- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
-- Reed Solomon
 
-**2 Symmetric encryption**
+# 2 Symmetric encryption
 
-**3. Asymmetric encryption**
+# 3. Asymmetric encryption
 
-**4. Signatures, Hash Functions**
+# 4. Signatures, Hash Functions
 
-**5. Introduction to blockchains and cryptocurrencies**
+# 5. Introduction to blockchains and cryptocurrencies
 - [Blockchains as Cryptographic Data Structures - Pramod Viswanath](https://courses.grainger.illinois.edu/ece598pv/sp2021/lectureslides2021/ECE_598_PV_course_notes2.pdf)
 - [What is a Blockchain - Ittai Abraham](https://decentralizedthoughts.github.io/2022-09-05-what-is-a-blockchain/)
 - [Why cryptocurrencies are interesting?](https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/us0MyyUNYwSXazM0YCrGscbRWr18s0aIIZqyHBbTWfM)
@@ -33,13 +42,13 @@ Professors:
 - [Merkle Tree](https://nakamoto.com/merkle-trees/)
 - [What is a Merkle Tree](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 
-**6. What is Money?**
+# 6. What is Money?
 - [What is Money anyway](https://www.lynalden.com/what-is-money/)
 - [Money in the modern economy: an introduction](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)
 - [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en&hash=9A8788FD44A62D8BB927123544205CE476E01654)
 - [The Cypherpunks](https://nakamoto.com/the-cypherpunks)
 
-**7. Bitcoin**
+# 7. Bitcoin
 - [MIT 15.S12 Blockchain and Money: Blockchain Basics & Consensus - Gary Gensler](https://www.youtube.com/watch?v=w7HDA8gUbpQ&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [Paxos(etcd) vs. Nakamoto(Bitcoin): consensus](https://gyuho.dev/paxos-etcd-vs-nakamoto-bitcoin-consensus.html)
 - [Nakamoto's Longest-Chain Wins Protocol](https://decentralizedthoughts.github.io/2021-10-15-Nakamoto-Consensus/)
@@ -51,7 +60,7 @@ Professors:
 - Two general's Problem
 - What Is the Byzantine Generals Problem?
 
-**8. Ethereum**
+# 8. Ethereum
 - [DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)
@@ -64,7 +73,7 @@ Professors:
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-**9. Wallets, ENS, Stablecoins, DeFi**
+# 9. Wallets, ENS, Stablecoins, DeFi
 - [Metamask and other wallets]()
 - DEMO: Uniswap, Curve, OpenSea NFTs, Maker/Oasis, Multisig
 - [lil web3: Small, focused, utility-based smart contracts](https://github.com/m1guelpf/lil-web3)
@@ -75,38 +84,40 @@ Professors:
 - [Programming DeFi: Uniswap V2. Part 3](https://jeiwan.net/posts/programming-defi-uniswapv2-3/)
 - [Uniswap V3 Development Book](https://uniswapv3book.com/)
 
-**9. Oracles, Bridges and Rollups**
+# 9. Oracles, Bridges and Rollups
 - Oracles
-- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - Bridges
+- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 
-**10. EVM**
+# 10. EVM
 - [EVM codes](https://www.evm.codes/?fork=merge)
 - [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
 - [ABI]()
 
-**11. Security**
+# 11. Security
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - https://github.com/crytic/echidna
 - https://github.com/trailofbits/manticore
 - https://github.com/ConsenSys/mythril
 
-**12. MEV**
+# 12. MEV
 - [MEV](https://research.paradigm.xyz/MEV)
 - https://www.youtube.com/watch?v=UZ-NNd6yjFM
 
-**13. Zcash, SNARKs and Privacy in blockchains**
+# 13. Zcash, SNARKs and Privacy in blockchains**
 - [Zcash]()
 - [Aztec]()
 
-**14. Scaling blockchains, ZK Rollups and L3s**
+# 14. Scaling blockchains, ZK Rollups and L3s
 - [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
 - [Cairo]() 
 - [Noir]()
 
-**15. The future of Bitcoin**
+# 15. Tendermint
+
+# 16. Back to Bitcoin
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
