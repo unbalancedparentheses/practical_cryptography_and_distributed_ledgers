@@ -4,7 +4,7 @@
 - Diego Kingston
 - Federico Carrone
 
-Disclaimer: We're still organizing everything. Some links might be in an incorrect section.
+Disclaimer: We're still organizing everything. Some links might be in an incorrect section. We will finish organizing everything in the next 8 weeks.
 
 # 1. Foundations of Cryptography
 - Groups, Rings and Fields
