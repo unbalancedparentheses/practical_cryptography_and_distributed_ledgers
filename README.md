@@ -24,6 +24,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
 
 # 2 Symmetric encryption
+- Stream ciphers and block ciphers
 - AES
 - ChaCha20
 
@@ -43,7 +44,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - ECDSA signature
 - Schnor signature
 - BLS signature
-- 
+-
 
 ## Readings
 - [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
@@ -110,7 +111,11 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 
-# 9. Wallets, ENS, Stablecoins, DeFi
+# 9. Wallets, Dapps and DeFi
+- DEX: Uniswap
+- Lending: Aave
+- Stablecoin: Maker/DAI
+- dYdX
 - [Metamask and other wallets]()
 - DEMO: Uniswap, Curve, OpenSea NFTs, Maker/Oasis, Multisig
 - [lil web3: Small, focused, utility-based smart contracts](https://github.com/m1guelpf/lil-web3)
@@ -147,7 +152,6 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
 - [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
 
-
 # 13. Zcash, SNARKs and Privacy in blockchains**
 - [Zcash]()
 - [Aztec]()
@@ -156,14 +160,6 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Data Availability
 - Optimistic versus Zero Knoweledge Rollups
 - Circom, Cairo, Noir
-
-# 15. Bitcoin SegWit, Taproot, Lightning Network and Covenants
-- [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
-- [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
-- [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
-- [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
-- [Covenants: CHECKTEMPLATEVERIFY]()
----
 
 ## Readings
 - [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
@@ -179,6 +175,10 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
 - [Covenants: CHECKTEMPLATEVERIFY]()
 - [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
+- [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
+
+- https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48
+- https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8
 
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
@@ -212,32 +212,22 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 
 ---
 # Missing topics
-- Light Clients
+- Light Clients 
 - UTXO vs Account model
 - The Blockchain Trilemma
 - PoS vs PoW
-- Tendemint
-- Hash Functions
-- Digital Signatures
 - Soft Forks vs Hard Forks
 - Onchain vs offchain computation
-- Taproot, Segwit, Covenants
 - Chinese remainder theorem
-- MAC
 - One Time Pad
 - MAC
-- Stream ciphers and block ciphers
-- Signatures
-- DeFi Lending (aave vs)
 - Account Abstraction (argent x)
+- Finality
 - muun, non custodial wallets
-- nuestra vida depende de un par de bases de datos https://twitter.com/argentHQ/status/1513488734498525184
+- life depends onl https://twitter.com/argentHQ/status/1513488734498525184
 
 **Links to add**
 - [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
-- https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus
-- https://www.cl.cam.ac.uk/~rja14/book.html
-- https://web.stanford.edu/class/ee374/
 - https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
 - https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ
 - https://youtu.be/-6BtBUbiUIU
@@ -264,19 +254,15 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - https://twitter.com/guiltygyoza/status/1447641997012082693?s=12
 - https://blog.zkga.me/announcing-darkforest
 - https://github.com/Rari-Capital/solmate
-- https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48
-- https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8
 - https://youtu.be/7Kq3YWsysc0
 - https://youtu.be/RxL_1AfV7N4
 - https://dune.xyz/queries/1161
 - https://www.youtube.com/watch?v=B2iNXMiGEms
 - https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
 - https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8
-- https://github.com/usmfum/USM
 - https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/
 - https://twitter.com/siegerhino2/status/1445024119112835073?s=21
 - https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec
-- https://www.vice.com/en/article/dyp7vw/the-cia-is-deep-into-cryptocurrency-director-reveals?utm_source=motherboardtv_facebook&utm_medium=social&fbclid=IwAR2Gxe3I1frUiU344r6bjBImXZz0uRUPvt4I5dBWI1BGZTG2fUV5O6_Q6KE
 - https://www.samchepal.com/the-hidden-world-of/
 - https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
 - https://www.youtube.com/watch?v=Ehm-OYBmlPM
