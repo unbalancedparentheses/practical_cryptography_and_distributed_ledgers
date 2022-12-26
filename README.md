@@ -37,14 +37,13 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 ## Readings
 - [Twenty Years of Attacks on the RSA Cryptosystem - Dan Boneh](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
 
-# 4. Signatures, Hash Functions
+# 4. Hash Functions and Signatures
 - MD5
 - SHA1
 - Keccak - SHA3
 - ECDSA signature
 - Schnor signature
 - BLS signature
--
 
 ## Readings
 - [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
