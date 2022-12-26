@@ -77,6 +77,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Consensus for State Machine Replication - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
 - [From Single-Shot Agreement to State Machine Replication](https://decentralizedthoughts.github.io/2022-11-19-from-single-shot-to-smr/)
 
+## Videos
+- [E48: The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan](https://youtu.be/B2iNXMiGEms) 
+
 # 7. Bitcoin
 - Two general's Problem
 - What Is the Byzantine Generals Problem?
