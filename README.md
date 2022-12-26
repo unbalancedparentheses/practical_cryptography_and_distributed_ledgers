@@ -167,6 +167,8 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Data, Consensus, Execution: Three Scalability Bottlenecks for State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-12-06-dce-the-three-scalability-bottlenecks-of-state-machine-replication)
 - [Understanding Blockchain Latency and Throughput - Lefteris Kokoris-Kogias](https://www.paradigm.xyz/2022/07/consensus-throughput)
 - [(Almost) Everything you need to know about Optimistic Rollup - Georgios Konstantopoulos](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup)
+- [Why rollups + data shards are the only sustainable solution for high scalability - Polynya](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
+- [Volitions: best of all worlds - Polynya](https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8)
 
 # 15. Tendermint, HotStuff and Narwhal
 - [What is the difference between PBFT, Tendermint, SBFT and HotStuff? - Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-23-what-is-the-difference-between/)
@@ -178,9 +180,6 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Covenants: CHECKTEMPLATEVERIFY]()
 - [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
 - [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
-
-- https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48
-- https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8
 
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
