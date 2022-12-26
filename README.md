@@ -12,10 +12,15 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - Modular Arithmetic
 - Polynomials over a Field
 - P versus NP problem
-- Computationally Hard Problems: Factorization and the Discrete Logarithm 
+- Computationally Hard Problems: Factorization and the Discrete Logarithm
+- Elliptic Curves
+- Elliptic Curves Pairings and Field Extensions
 
 ## Readings
 - [Chapter entitled Cryptography: Sections on Symmetric Crypto Primitives - Anderson Security Engineering](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c05.pdf)
+- [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography - Nick Sullivan](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Exploring Elliptic Curve Pairings - Vitalik Buterin](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
+- [Pairing](https://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol/pairing)
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
 - [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
@@ -48,6 +53,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 ## Readings
 - [What is a Cryptographic Hash Function? - Alin Tomescu](https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/)
 - [What is the BLS signature scheme? - David Wong](https://www.cryptologie.net/article/472/what-is-the-bls-signature-scheme/)
+- [BLS Signatures - Remco Bloemen](https://xn--2-umb.com/22/bls-signatures/)
 
 # 5. What is Money?
 - [A Brief History of Money](https://nakamoto.com/a-brief-history-of-money/)
@@ -135,6 +141,8 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 
 # 10. EVM
 - [EVM codes](https://www.evm.codes/?fork=merge)
+- [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
+- [Ethereum Virtual Machine](https://www.youtube.com/watch?v=BsDq2mzC5tk)
 - [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
 - [ABI]()
 
