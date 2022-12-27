@@ -24,6 +24,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
 - [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
+- [Moonmath](https://leastauthority.com/community-matters/moonmath-manual/)
 
 ## Exercises
 - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
@@ -31,21 +32,29 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 # 2 Symmetric encryption
 - Stream ciphers and block ciphers
 - AES
+- AES operation modes
 - ChaCha20
+- Security definitions.
+- Attacks on block and stream ciphers.
 
 # 3. Asymmetric encryption
 - Diffie-Hellman Key Exchange
 - ECDH
 - ElGamal
 - RSA
+- PKCS
 
 ## Readings
 - [Twenty Years of Attacks on the RSA Cryptosystem - Dan Boneh](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
 
-# 4. Hash Functions and Signatures
+# 4. Hash Functions, MAC and Signatures
+- Properties of cryptographic hash functions
+- Merkle-Damgard construction
 - MD5
 - SHA1
+- Sponge constructions
 - Keccak - SHA3
+- Message Authentication Codes
 - ECDSA signature
 - Schnor signature
 - BLS signature
@@ -163,8 +172,10 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
 
 # 13. Zcash, SNARKs and Privacy in blockchains**
-- [Zcash]()
+- [Zcash](https://electriccoin.co/blog/category/technical/)
 - [Aztec]()
+- [zksnarks](https://zkhack.dev/whiteboard/module-one/)
+- [arithmetization]()
 
 # 14. Scaling blockchains
 - Data Availability
