@@ -4,6 +4,40 @@
 - Diego Kingston
 - Federico Carrone
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### ZK Proofs: New Proving Systems
+- [Binius: Succinct Arguments over Towers of Binary Fields - Diamond & Posen](https://eprint.iacr.org/2023/1784.pdf) - Proofs over binary fields, dramatically cheaper for hash-heavy computations
+- [Jolt: SNARKs for Virtual Machines via Lookups (Eurocrypt 2024)](https://eprint.iacr.org/2023/1217) - RISC-V zkVM built almost entirely from lookup arguments, ~10x speedup
+- [Lasso: Lookup Arguments (Eurocrypt 2024)](https://people.cs.georgetown.edu/jthaler/Lasso-paper.pdf) - Prover cost scales only with number of lookups, not table size
+- [LogUp: Logarithmic Derivatives for Lookups - Haböck (Polygon)](https://eprint.iacr.org/2022/1530) - Standard lookup technique inside Plonky3 and production STARKs
+
+### ZK Proofs: Folding Schemes
+- [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes (CRYPTO 2022)](https://eprint.iacr.org/2021/370) - Lightweight alternative to SNARKs for incrementally verifiable computation
+- [HyperNova: Recursive Arguments for Customizable Constraint Systems (CRYPTO 2024)](https://eprint.iacr.org/2023/573) - Generalizes Nova to CCS (subsumes R1CS, Plonkish, AIR)
+- [SuperNova: Proving Universal Machine Executions without Universal Circuits](https://eprint.iacr.org/2022/1758) - Non-uniform IVC with different circuits per step
+
+### MEV (New)
+- [The Future of MEV is SUAVE - Flashbots](https://writings.flashbots.net/the-future-of-mev-is-suave) - Cross-chain MEV network to prevent builder centralization
+- [MEV-Share: Programmably Private Orderflow - Flashbots](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264) - Users control what searchers see, MEV returned to originators
+- [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/pdf/2407.13931) - ~3 builders control 80% of blocks via private order flow feedback loops
+- [Based Rollups: Superpowers from L1 Sequencing - Justin Drake](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016) - L1 validators as rollup sequencers
+
+### Scaling & Data Availability
+- [EIP-4844: Proto-Danksharding](https://eips.ethereum.org/EIPS/eip-4844) - Blob transactions and KZG commitments, reduced rollup costs 10-100x (Dencun, March 2024)
+- [EigenLayer Whitepaper - Sreeram Kannan et al.](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf) - Restaking to extend ETH security to new protocols including EigenDA
+
+### Consensus (New)
+- [Narwhal and Tusk: DAG-based Mempool and BFT Consensus](https://arxiv.org/abs/2105.11827) - 130,000+ tx/sec, foundation for Sui, Aptos, Linera
+- [Mysticeti: Low-Latency DAG Consensus (NDSS 2025)](https://arxiv.org/pdf/2310.14821) - First DAG consensus to commit in 3 message delays, <400ms on Sui
+- [Shoal++: High Throughput DAG BFT Can Be Fast! (2024)](https://arxiv.org/abs/2405.20488) - Average commit latency of 4.5 message exchanges
+
+### FHE
+- [fhEVM: Confidential EVM Smart Contracts Using FHE - Zama](https://github.com/zama-ai/fhevm) - First framework for Solidity contracts operating over encrypted state
+- [Concrete ML: Privacy-Preserving ML with FHE - Zama](https://github.com/zama-ai/awesome-zama) - Standard ML models on encrypted data via TFHE
+
 ## Table of Contents
 - [1. Foundations of Cryptography](#1-foundations-of-cryptography)
 - [2. Symmetric encryption](#2-symmetric-encryption)
