@@ -48,14 +48,14 @@
 - [7. Bitcoin](#7-bitcoin)
 - [8. Ethereum](#8-ethereum)
 - [9. Wallets, Dapps and DeFi](#9-wallets-dapps-and-defi)
-- [9. Oracles, Bridges and Rollups](#9-oracles-bridges-and-rollups)
-- [10. EVM](#10-evm)
-- [11. Security](#11-security)
-- [12. MEV](#12-mev)
-- [13. Zcash, SNARKs and Privacy in blockchains](#13-zcash-snarks-and-privacy-in-blockchains)
-- [14. Scaling blockchains](#14-scaling-blockchains)
-- [15. Tendermint, HotStuff and Narwhal](#15-tendermint-hotstuff-and-narwhal)
-- [16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants](#16-bitcoin-segwit-taproot-lightning-network-and-covenants)
+- [10. Oracles, Bridges and Rollups](#10-oracles-bridges-and-rollups)
+- [11. EVM](#11-evm)
+- [12. Security](#12-security)
+- [13. MEV](#13-mev)
+- [14. Zcash, SNARKs and Privacy in blockchains](#14-zcash-snarks-and-privacy-in-blockchains)
+- [15. Scaling blockchains](#15-scaling-blockchains)
+- [16. Tendermint, HotStuff and Narwhal](#16-tendermint-hotstuff-and-narwhal)
+- [17. Bitcoin: SegWit, Taproot, Lightning Network and Covenants](#17-bitcoin-segwit-taproot-lightning-network-and-covenants)
 - [Books](#books)
 - [Courses](#courses)
 - [Missing topics](#missing-topics)
@@ -77,11 +77,11 @@
 - [Pairing](https://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol/pairing)
 - [Ben Lynn's notes on cryptography, abstract algebra and number theory](https://crypto.stanford.edu/pbc/notes/)
 - [Reed Solomon](https://mazzo.li/posts/reed-solomon.html)
-- [Reed–Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
+- [Reed-Solomon codes for coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 - [Moonmath](https://leastauthority.com/community-matters/moonmath-manual/)
 
 ## Exercises
-- [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song]()
+- [Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song](https://github.com/jimmysong/programmingbitcoin)
 
 # 2 Symmetric encryption
 - Stream ciphers and block ciphers
@@ -150,6 +150,7 @@
 - [The mystery behind block time](https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a)
 - [What everyone gets wrong about 51% attacks - Dankrad Feist](https://dankradfeist.de/ethereum/2021/05/20/what-everyone-gets-wrong-about-51percent-attacks.html)
 - [Blockchain papers - decrypto-org](https://github.com/decrypto-org/blockchain-papers)
+- [An Empirical Analysis of Chain Reorganizations and Double-Spend Attacks on Proof-of-Work Cryptocurrencies - MIT](https://dspace.mit.edu/handle/1721.1/127476)
 
 ## Videos
 - [E48: The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan](https://youtu.be/B2iNXMiGEms)
@@ -185,7 +186,7 @@
 - [Go Ethereum](https://geth.ethereum.org/docs)
 - [Trie, Merkle, Patricia: A Blockchain Story](https://kronosapiens.github.io/blog/2018/07/04/patricia-trees.html)
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
-- [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
+- [scaffold-eth: forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 - [solmate - Modern, opinionated, and gas optimized building blocks - Rari Capital](https://github.com/Rari-Capital/solmate)
 - [CNBC: People are paying millions of dollars for digital pictures of rocks (NFTs)](https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html)
@@ -195,7 +196,7 @@
 - Lending: Aave
 - Stablecoin: Maker/DAI
 - dYdX
-- [Metamask and other wallets]()
+- [Metamask and other wallets](https://metamask.io/)
 - DEMO: Uniswap, Curve, OpenSea NFTs, Maker/Oasis, Multisig
 - [lil web3: Small, focused, utility-based smart contracts](https://github.com/m1guelpf/lil-web3)
 - [Programming DeFi: Uniswap V2. Part 1](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
@@ -208,19 +209,19 @@
 - [What's the simplest possible decentralized stablecoin? - Jacob Eliosoff](https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8)
 - [Awesome Foundations of DeFi - Mikerah](https://github.com/Mikerah/awesome-foundations-of-DeFi)
 
-# 9. Oracles, Bridges and Rollups
+# 10. Oracles, Bridges and Rollups
 - Oracles
 - Bridges
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 
-# 10. EVM
+# 11. EVM
 - [EVM codes](https://www.evm.codes/?fork=merge)
 - [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
 - [Ethereum Virtual Machine](https://www.youtube.com/watch?v=BsDq2mzC5tk)
-- [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
-- [ABI]()
+- [EVM Deep Dives: The Path to Shadowy Super Coder - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
+- [Contract ABI Specification - Solidity Docs](https://docs.soliditylang.org/en/latest/abi-spec.html)
 
-# 11. Security
+# 12. Security
 - [Capture the Ether](https://capturetheether.com/challenges/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
@@ -234,22 +235,26 @@
 - [mythril - Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 - [surya - A Solidity inspection tool - ConsenSys](https://github.com/ConsenSys/surya)
 
-# 12. MEV
+# 13. MEV
 - [MEV101 - Introduction to Maximal Extractable Value](./MEV101.pdf)
 - [MEV](https://research.paradigm.xyz/MEV)
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
 - [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
 - [The Anatomy of an Inspector - Flashbots](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
+- [The Hidden World of Ethereum Snipers - Samneet Chepal](https://www.samchepal.com/the-hidden-world-of/)
 
-# 13. Zcash, SNARKs and Privacy in blockchains**
+# 14. Zcash, SNARKs and Privacy in blockchains
 - [Zcash](https://electriccoin.co/blog/category/technical/)
-- [Aztec]()
+- [Aztec Network](https://aztec.network/)
 - [zksnarks](https://zkhack.dev/whiteboard/module-one/)
-- [arithmetization]()
+- [Arithmetization I - StarkWare STARK Math](https://medium.com/starkware/arithmetization-i-15c046390862)
+- [Arithmetization II - StarkWare STARK Math](https://medium.com/starkware/arithmetization-ii-403c3b3f4355)
 - [Announcing Dark Forest - a zkSNARK game](https://blog.zkga.me/announcing-darkforest)
 - [Umbra: How does Umbra compare to Tornado Cash and Aztec?](https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec)
+- [STARKs, Part I: Proofs with Polynomials - Vitalik Buterin](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+- [An approximate introduction to how zk-SNARKs are possible - Vitalik Buterin](https://vitalik.eth.limo/general/2021/01/26/snarks.html)
 
-# 14. Scaling blockchains
+# 15. Scaling blockchains
 - Data Availability
 - Optimistic versus Zero Knoweledge Rollups
 - Circom, Cairo, Noir
@@ -262,38 +267,38 @@
 - [Volitions: best of all worlds - Polynya](https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8)
 - [Volition and the Emerging Data Availability Spectrum - StarkWare](https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb)
 
-# 15. Tendermint, HotStuff and Narwhal
+# 16. Tendermint, HotStuff and Narwhal
 - [What is the difference between PBFT, Tendermint, SBFT and HotStuff? - Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-23-what-is-the-difference-between/)
 - [DAG Meets BFT - The Next Generation of BFT Consensus - Ittai Abraham](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
 - [MetaAnalysis of Alternative Consensus Protocols - Mechanism Labs](https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols)
 - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
 - [FLP and CAP - Dinhtta](https://dinhtta.github.io/flpcap/)
 
-# 16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants
+# 17. Bitcoin: SegWit, Taproot, Lightning Network and Covenants
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
 - [Taproot: SegWit version 1 spending rules](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
-- [Covenants: CHECKTEMPLATEVERIFY]()
+- [Covenants: CHECKTEMPLATEVERIFY (BIP-119)](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
 - [A Look at the Lightning Network - Lyn Alden](https://www.lynalden.com/lightning-network/)
 - [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://berkeley-defi.github.io/assets/material/lightning-network-paper.pdf)
 
 # Books
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
-- [Security Engineering — Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
+- [Security Engineering - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 ## Blockchain
 - [Foundations of Distributed: Consensus and Blockchains - Elaine Shi](http://elaineshi.com/docs/blockchain-book.pdf)
 
 ## Cryptography
-- [Handbook of Applied Cryptography -  Menezes, van Oorschot and Vanstone]()
-- [Crypto 101 - lvh]()
+- [Handbook of Applied Cryptography - Menezes, van Oorschot and Vanstone](https://cacr.uwaterloo.ca/hac/)
+- [Crypto 101 - lvh](https://www.crypto101.io/)
 
 ## Abstract Algebra and Number Theory
-- [An Introduction to Mathematical Cryptography - Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman]()
-- [A Course in Number Theory and Cryptography - Neal Koblitz]()
-- [Algebra for Applications - Arkadii Slinko]()
-- [A Computational Introduction to Number Theory and Algebra - Victor Shoup]()
-- [Elliptic Curves Number Theory and Cryptography - Lawrence C. Washington]()
-- [The prime number conspiracy - Thomas Lin]()
+- [An Introduction to Mathematical Cryptography - Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman](https://link.springer.com/book/10.1007/978-1-4939-1711-2)
+- [A Course in Number Theory and Cryptography - Neal Koblitz](https://link.springer.com/book/10.1007/978-1-4419-8592-7)
+- [Algebra for Applications - Arkadii Slinko](https://link.springer.com/book/10.1007/978-3-030-44074-9)
+- [A Computational Introduction to Number Theory and Algebra - Victor Shoup](https://shoup.net/ntb/)
+- [Elliptic Curves Number Theory and Cryptography - Lawrence C. Washington](https://www.routledge.com/Elliptic-Curves-Number-Theory-and-Cryptography-Second-Edition/Washington/p/book/9781420071467)
+- [The Prime Number Conspiracy - Thomas Lin](https://mitpress.mit.edu/9780262536356/the-prime-number-conspiracy/)
 
 # Courses
 - [Practical Cryptographic Systems - Matthew Green](https://github.com/matthewdgreen/practicalcrypto/wiki/Spring-2020-Syllabus)
@@ -309,32 +314,15 @@
 
 ---
 # Missing topics
-- Light Clients
-- UTXO vs Account model
-- The Blockchain Trilemma
-- PoS vs PoW
-- Soft Forks vs Hard Forks
-- Onchain vs offchain computation
-- Chinese remainder theorem
-- One Time Pad
-- MAC
-- Account Abstraction (argent x)
-- Finality
-- muun, non custodial wallets
-- life depends onl https://twitter.com/argentHQ/status/1513488734498525184
-
-## To organize
-- https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ
-- https://youtu.be/-6BtBUbiUIU
-- https://www.youtube.com/watch?v=O1Iq27ItGGg
-- https://dspace.mit.edu/handle/1721.1/127476
-- https://youtu.be/mDyBbGCiBUU
-- https://youtu.be/DlNDYMNJ5zQ
-- https://www.youtube.com/watch?v=U6q5gBnxgS0&list=PL9lJNCwSDOhVEf0ajBHkNNICFqNnoGx7r&index=4
-- https://twitter.com/guiltygyoza/status/1447641997012082693?s=12
-- https://youtu.be/7Kq3YWsysc0
-- https://dune.xyz/queries/1161
-- https://twitter.com/siegerhino2/status/1445024119112835073?s=21
-- https://www.samchepal.com/the-hidden-world-of/
-- https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
-- https://www.youtube.com/watch?v=Ehm-OYBmlPM
+- [ ] Light Clients
+- [ ] UTXO vs Account model
+- [ ] The Blockchain Trilemma
+- [ ] PoS vs PoW
+- [ ] Soft Forks vs Hard Forks
+- [ ] Onchain vs offchain computation
+- [ ] Chinese remainder theorem
+- [ ] One Time Pad
+- [ ] MAC
+- [ ] Account Abstraction (argent x)
+- [ ] Finality
+- [ ] muun, non custodial wallets
