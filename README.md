@@ -167,6 +167,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [mythril - Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
 
 # 12. MEV
+- [MEV101 - Introduction to Maximal Extractable Value](./MEV101.pdf)
 - [MEV](https://research.paradigm.xyz/MEV)
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
 - [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
