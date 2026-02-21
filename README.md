@@ -4,7 +4,27 @@
 - Diego Kingston
 - Federico Carrone
 
-Disclaimer: We're still organizing everything. Some links might be in an incorrect section. We will finish organizing everything in the next 8 weeks.
+## Table of Contents
+- [1. Foundations of Cryptography](#1-foundations-of-cryptography)
+- [2. Symmetric encryption](#2-symmetric-encryption)
+- [3. Asymmetric encryption](#3-asymmetric-encryption)
+- [4. Hash Functions, MAC and Signatures](#4-hash-functions-mac-and-signatures)
+- [5. What is Money?](#5-what-is-money)
+- [6. Introduction to blockchains and cryptocurrencies](#6-introduction-to-blockchains-and-cryptocurrencies)
+- [7. Bitcoin](#7-bitcoin)
+- [8. Ethereum](#8-ethereum)
+- [9. Wallets, Dapps and DeFi](#9-wallets-dapps-and-defi)
+- [9. Oracles, Bridges and Rollups](#9-oracles-bridges-and-rollups)
+- [10. EVM](#10-evm)
+- [11. Security](#11-security)
+- [12. MEV](#12-mev)
+- [13. Zcash, SNARKs and Privacy in blockchains](#13-zcash-snarks-and-privacy-in-blockchains)
+- [14. Scaling blockchains](#14-scaling-blockchains)
+- [15. Tendermint, HotStuff and Narwhal](#15-tendermint-hotstuff-and-narwhal)
+- [16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants](#16-bitcoin-segwit-taproot-lightning-network-and-covenants)
+- [Books](#books)
+- [Courses](#courses)
+- [Missing topics](#missing-topics)
 
 # 1. Foundations of Cryptography
 - Groups, Rings and Fields
@@ -91,9 +111,14 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Flavours of State Machine Replication - Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-25-flavours-of-state-machine-replication/)
 - [Consensus for State Machine Replication - Kartik Nayak, Ittai Abraham](https://decentralizedthoughts.github.io/2019-10-15-consensus-for-state-machine-replication/)
 - [From Single-Shot Agreement to State Machine Replication](https://decentralizedthoughts.github.io/2022-11-19-from-single-shot-to-smr/)
+- [On settlement finality - Ethereum Blog](https://blog.ethereum.org/2016/05/09/on-settlement-finality/)
+- [Finality in Blockchain Consensus - Mechanism Labs](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a#:~:text=In%20the%20blockchain%20setting%2C%20finality,be%20arbitrarily%20changed%20or%20reversed)
+- [The mystery behind block time](https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a)
+- [What everyone gets wrong about 51% attacks - Dankrad Feist](https://dankradfeist.de/ethereum/2021/05/20/what-everyone-gets-wrong-about-51percent-attacks.html)
+- [Blockchain papers - decrypto-org](https://github.com/decrypto-org/blockchain-papers)
 
 ## Videos
-- [E48: The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan](https://youtu.be/B2iNXMiGEms) 
+- [E48: The role of decentralization, China/US break down & more with Bestie Guestie Balaji Srinivasan](https://youtu.be/B2iNXMiGEms)
 
 # 7. Bitcoin
 - Two general's Problem
@@ -106,8 +131,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Nakamoto's Longest-Chain Wins Protocol](https://decentralizedthoughts.github.io/2021-10-15-Nakamoto-Consensus/)
 - [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-- [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4) 
+- [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
 - [Cryptoeconomics In 30 Minutes by Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
+- [The differences between a hard fork, a soft fork, and a chain split](https://medium.com/@lightcoin/the-differences-between-a-hard-fork-a-soft-fork-and-a-chain-split-and-what-they-mean-for-the-769273f358c9)
 
 # 8. Ethereum
 - Solidity
@@ -127,6 +153,8 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Ethereum development made easy with Foundry](https://www.notamonadtutorial.com/ethereum-development-made-easy-with-foundry/)
 - [scaffold-eth: 🏗 forkable Ethereum dev stack focused on fast product iterations](https://github.com/scaffold-eth/scaffold-eth)
 - [Scaffold-Eth Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
+- [solmate - Modern, opinionated, and gas optimized building blocks - Rari Capital](https://github.com/Rari-Capital/solmate)
+- [CNBC: People are paying millions of dollars for digital pictures of rocks (NFTs)](https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html)
 
 # 9. Wallets, Dapps and DeFi
 - DEX: Uniswap
@@ -142,6 +170,9 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Programming DeFi: Uniswap V2. Part 2](https://jeiwan.net/posts/programming-defi-uniswapv2-2/)
 - [Programming DeFi: Uniswap V2. Part 3](https://jeiwan.net/posts/programming-defi-uniswapv2-3/)
 - [Uniswap V3 Development Book](https://uniswapv3book.com/)
+- [Hayden Adams Explains Uniswap and the Rise of DeFi](https://open.spotify.com/episode/3TT6aFeMWnFPZTlfy5fxvv?si=KCw3uWvJQAaeBCZoH1RwNw&dl_branch=1)
+- [What's the simplest possible decentralized stablecoin? - Jacob Eliosoff](https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8)
+- [Awesome Foundations of DeFi - Mikerah](https://github.com/Mikerah/awesome-foundations-of-DeFi)
 
 # 9. Oracles, Bridges and Rollups
 - Oracles
@@ -160,23 +191,29 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+- [MISO War Room - Mudit Gupta](https://mudit.blog/miso-war-room/)
+- [Critical privacy vulnerability getting exposed by MetaMask](https://medium.com/@alxlpsc/critical-privacy-vulnerability-getting-exposed-by-metamask-693c63c2ce94)
 
 ## Tools
 - [echidna - Ethereum smart contract fuzzer](https://github.com/crytic/echidna)
 - [manticore - Symbolic execution tool](https://github.com/trailofbits/manticore)
 - [mythril - Security analysis tool for EVM bytecode](https://github.com/ConsenSys/mythril)
+- [surya - A Solidity inspection tool - ConsenSys](https://github.com/ConsenSys/surya)
 
 # 12. MEV
 - [MEV101 - Introduction to Maximal Extractable Value](./MEV101.pdf)
 - [MEV](https://research.paradigm.xyz/MEV)
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
 - [Video: Honeypots in Ethereum And How To Avoid Them With Tenderly.co Transaction Simulation](https://youtu.be/DDn5mksOUCc)
+- [The Anatomy of an Inspector - Flashbots](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 
 # 13. Zcash, SNARKs and Privacy in blockchains**
 - [Zcash](https://electriccoin.co/blog/category/technical/)
 - [Aztec]()
 - [zksnarks](https://zkhack.dev/whiteboard/module-one/)
 - [arithmetization]()
+- [Announcing Dark Forest - a zkSNARK game](https://blog.zkga.me/announcing-darkforest)
+- [Umbra: How does Umbra compare to Tornado Cash and Aztec?](https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec)
 
 # 14. Scaling blockchains
 - Data Availability
@@ -189,10 +226,14 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [(Almost) Everything you need to know about Optimistic Rollup - Georgios Konstantopoulos](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup)
 - [Why rollups + data shards are the only sustainable solution for high scalability - Polynya](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
 - [Volitions: best of all worlds - Polynya](https://polynya.medium.com/volitions-best-of-all-worlds-cfd313aec9a8)
+- [Volition and the Emerging Data Availability Spectrum - StarkWare](https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb)
 
 # 15. Tendermint, HotStuff and Narwhal
 - [What is the difference between PBFT, Tendermint, SBFT and HotStuff? - Ittai Abraham](https://decentralizedthoughts.github.io/2019-06-23-what-is-the-difference-between/)
 - [DAG Meets BFT - The Next Generation of BFT Consensus - Ittai Abraham](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
+- [MetaAnalysis of Alternative Consensus Protocols - Mechanism Labs](https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols)
+- [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
+- [FLP and CAP - Dinhtta](https://dinhtta.github.io/flpcap/)
 
 # 16. Bitcoin: SegWit, Taproot, Lightning Network and Covenants
 - [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
@@ -230,10 +271,11 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Stanford EE374 Blockchain Foundations - David Tse, Dionysis Zindros](https://web.stanford.edu/class/ee374/)
 - [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
 - [CS598CAL Consensus Algorithms - Ling Ren](https://sites.google.com/view/cs598cal?pli=1)
+- [Dan Boneh's Online Cryptography Course - Stanford](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 
 ---
 # Missing topics
-- Light Clients 
+- Light Clients
 - UTXO vs Account model
 - The Blockchain Trilemma
 - PoS vs PoW
@@ -247,44 +289,18 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - muun, non custodial wallets
 - life depends onl https://twitter.com/argentHQ/status/1513488734498525184
 
-**Links to add**
-- [](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/)
-- https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
+## To organize
 - https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ
 - https://youtu.be/-6BtBUbiUIU
-- https://github.com/decrypto-org/blockchain-papers
-- https://blog.ethereum.org/2016/05/09/on-settlement-finality/
-- https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a#:~:text=In%20the%20blockchain%20setting%2C%20finality,be%20arbitrarily%20changed%20or%20reversed
-- https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols
 - https://www.youtube.com/watch?v=O1Iq27ItGGg
-- https://medium.com/@lightcoin/the-differences-between-a-hard-fork-a-soft-fork-and-a-chain-split-and-what-they-mean-for-the-769273f358c9
 - https://dspace.mit.edu/handle/1721.1/127476
-- https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a
-- https://dankradfeist.de/ethereum/2021/05/20/what-everyone-gets-wrong-about-51percent-attacks.html
-- https://dinhtta.github.io/flpcap/
-- https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/
 - https://youtu.be/mDyBbGCiBUU
-- https://medium.com/@alxlpsc/critical-privacy-vulnerability-getting-exposed-by-metamask-693c63c2ce94
-- https://www.cnbc.com/2021/08/23/people-are-paying-millions-of-dollars-for-digital-pictures-of-rocks.html
-- https://mudit.blog/miso-war-room/
-- https://github.com/ConsenSys/surya
 - https://youtu.be/DlNDYMNJ5zQ
-- [Hayden Adams Explains Uniswap and the Rise of DeFi](https://open.spotify.com/episode/3TT6aFeMWnFPZTlfy5fxvv?si=KCw3uWvJQAaeBCZoH1RwNw&dl_branch=1)
-- https://cryptomarketpool.com/getting-started-with-solidity/
 - https://www.youtube.com/watch?v=U6q5gBnxgS0&list=PL9lJNCwSDOhVEf0ajBHkNNICFqNnoGx7r&index=4
 - https://twitter.com/guiltygyoza/status/1447641997012082693?s=12
-- https://blog.zkga.me/announcing-darkforest
-- https://github.com/Rari-Capital/solmate
 - https://youtu.be/7Kq3YWsysc0
-- https://youtu.be/RxL_1AfV7N4
 - https://dune.xyz/queries/1161
-- https://www.youtube.com/watch?v=B2iNXMiGEms
-- https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
-- https://jacob-eliosoff.medium.com/whats-the-simplest-possible-decentralized-stablecoin-4a25262cf5e8
-- https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/
 - https://twitter.com/siegerhino2/status/1445024119112835073?s=21
-- https://app.umbra.cash/faq#how-does-umbra-compare-to-tornado-cash-and-aztec
 - https://www.samchepal.com/the-hidden-world-of/
 - https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
 - https://www.youtube.com/watch?v=Ehm-OYBmlPM
-- https://github.com/Mikerah/awesome-foundations-of-DeFi
