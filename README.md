@@ -38,6 +38,39 @@
 - [fhEVM: Confidential EVM Smart Contracts Using FHE - Zama](https://github.com/zama-ai/fhevm) - First framework for Solidity contracts operating over encrypted state
 - [Concrete ML: Privacy-Preserving ML with FHE - Zama](https://github.com/zama-ai/awesome-zama) - Standard ML models on encrypted data via TFHE
 
+### ZK Proving Systems (New)
+- [Circle STARKs - Haboeck, Levit, Papini (2024)](https://eprint.iacr.org/2024/278) - STARKs over Mersenne prime p = 2^31 - 1, achieving ~1.4x speedup over BabyBear-based STARKs
+- [Stwo Prover - StarkWare (2024)](https://starkware.co/blog/stwo-prover-the-next-gen-of-stark-scaling-is-here/) - Next-gen open-source STARK prover implementing Circle STARKs; 940x faster than Stone, live on Starknet
+- [Polygon Plonky3 (2024)](https://polygon.technology/plonky3) - Modular ZK proving toolkit for custom zkVMs/zkEVMs; 5-10x faster than Plonky2, adopted by SP1 and Valida
+- [SP1 Hypercube - Succinct Labs (2025)](https://blog.succinct.xyz/sp1-hypercube-is-now-live-on-mainnet/) - Multilinear-polynomial zkVM proving Ethereum blocks in under 12 seconds on 16 GPUs; first real-time L1 prover
+- [Verifying Jolt zkVM Lookup Semantics - Kwan, Dao, Thaler (2024)](https://eprint.iacr.org/2024/1841) - Formal verification of all Jolt RV32I instruction lookups using ACL2 theorem prover
+
+### Ethereum: Pectra & Account Abstraction (New)
+- [EIP-7702: Set Code for EOAs - Buterin et al. (2024)](https://eips.ethereum.org/EIPS/eip-7702) - EOAs temporarily delegate to smart contract code; enables batching, gas sponsorship; shipped in Pectra (May 2025)
+
+### MEV / PBS (New)
+- [Analysis of Order Flow Auction under PBS - Ma, Tang, Yao (2025)](https://arxiv.org/abs/2502.12026) - Game-theoretic model of OFA + block-building showing builder centralization dynamics
+- [Quantifying Price Improvement in Order Flow Auctions - Bachu, Wan / Uniswap Labs (2024)](https://blog.uniswap.org/measuring-price-improvement-with-order-flow-auctions) - Open-source methodology; dutch-auction OFAs yield 4-5 bps average price improvement
+- [SoK: Ethereum's Enshrined Proposer Builder Separation - Koegler (2025)](https://arxiv.org/abs/2506.18189) - Systematization of ePBS mechanisms and gaps in current PBS designs
+
+### Bitcoin: BitVM & OP_CAT (New)
+- [BitVM: Quasi-Turing Complete Computation on Bitcoin - Aumayr et al. (2024)](https://eprint.iacr.org/2024/1995) - Formal analysis proving arbitrary computation encodable in Bitcoin Script via fraud proofs without consensus changes
+- [BIP-347: OP_CAT in Tapscript - Heilman, Sabouri (2024)](https://github.com/bitcoin/bips/blob/master/bip-0347.mediawiki) - Reactivating OP_CAT for covenants, vaults, and ZK-proof verification on Bitcoin
+
+### Consensus Protocols (New)
+- [SoK: DAG-based Consensus Protocols (2024)](https://arxiv.org/abs/2411.10026) - Classifies DAG-BFT protocols into availability- vs consistency-focused, analyzing security and fairness
+- [Beyond the Whitepaper: Where BFT Meets Reality - Wong, Kolegov, Mikushin (2024)](https://eprint.iacr.org/2024/1242) - Lessons from auditing production BFT systems; catalogs logic errors, concurrency bugs, crypto pitfalls
+
+### Post-Quantum (New)
+- [Migration to Post-Quantum: From ECDSA to ML-DSA - Dinu (2025)](https://eprint.iacr.org/2025/2025) - Practical comparison for blockchain signatures covering side-channel and fault-injection countermeasures
+- [NIST FIPS 203/204/205 Post-Quantum Standards (August 2024)](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards) - ML-KEM, ML-DSA, SLH-DSA finalized; mandates deprecation of quantum-vulnerable algorithms by 2035
+
+### Formal Verification (New)
+- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts - Liu et al. (NDSS 2025)](https://arxiv.org/abs/2405.02580) - GPT-4 with RAG to auto-generate formal properties; detected 26 CVEs and 12 zero-days
+
+### Cross-Chain (New)
+- [Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook (ACM DLT, 2024)](https://dl.acm.org/doi/10.1145/3696429) - Survey of bridge architectures with security analysis and taxonomy of bridge exploits
+
 ## Table of Contents
 - [1. Foundations of Cryptography](#1-foundations-of-cryptography)
 - [2. Symmetric encryption](#2-symmetric-encryption)
