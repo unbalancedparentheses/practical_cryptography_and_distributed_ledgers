@@ -4,6 +4,10 @@
 - Diego Kingston
 - Federico Carrone
 
+The ZK proving systems landscape has exploded. Circle STARKs (Starkware/Stwo) operate over the Mersenne31 field, enabling dramatically faster proof generation by exploiting the structure of circles over finite fields. Binius (Irreducible) works over binary tower fields, achieving the smallest proofs for binary circuits. Jolt/Lasso (a16z) use lookup arguments to verify RISC-V execution without custom circuits -- this is the "lookup singularity" approach where the prover just commits to a trace and proves lookups into predefined tables. Folding schemes (Nova, HyperNova, SuperNova from Microsoft Research) are the other major paradigm shift: instead of proving a computation all at once, you incrementally fold instances together, enabling IVC (Incremental Verifiable Computation) for long-running computations like blockchain state transitions.
+
+Post-quantum cryptography has moved from research to deployment: NIST finalized FIPS 203 (ML-KEM, lattice-based key encapsulation), FIPS 204 (ML-DSA, lattice-based signatures), and FIPS 205 (SLH-DSA, hash-based signatures). Chrome and Signal already ship post-quantum key exchange. The FHE entries (Zama's fhEVM, Concrete ML) show fully homomorphic encryption becoming practical for specific use cases -- encrypted on-chain computation and private ML inference -- though it remains orders of magnitude slower than plaintext for general computation.
+
 ## Table of Contents
 - [1. Foundations of Cryptography](#1-foundations-of-cryptography)
 - [2. Symmetric encryption](#2-symmetric-encryption)
